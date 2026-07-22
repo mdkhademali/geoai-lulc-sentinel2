@@ -85,13 +85,7 @@ All four models exceed 98.5% test accuracy, reflecting strong class separability
 - Sentinel-1 SAR fusion to maintain coverage through the monsoon cloud season.
 - Field-verified ground-truth points and cross-validation against ESA WorldCover / ESRI 10 m LULC for independent accuracy assessment.
 
-## License
-
-Released under the [MIT License](LICENSE).
-
 ## Citation
-
-If you use this pipeline in your research, please cite:
 
 ```bibtex
 @software{ali2026geoai_lulc,
