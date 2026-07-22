@@ -1,7 +1,6 @@
 ## GeoAI for Land Use / Land Cover Classification using Sentinel-2 Satellite Imagery and Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Sentinel-2](https://img.shields.io/badge/Data-Sentinel--2%20L2A-orange)
 ![Status](https://img.shields.io/badge/Status-Reproducible-brightgreen)
 ![Made with](https://img.shields.io/badge/Made%20with-scikit--learn%20%7C%20XGBoost%20%7C%20LightGBM-informational)
